@@ -23,6 +23,7 @@
     ```
 5. Teraz trzeba zsource'owac `setup.bash` ze środowiska `ROS2_WS`.
     ```bash
+    $ source /opt/ros/humble/setup.bash
     $ echo "source ~/ROS2_WS/install/setup.bash" >> ~/.bashrc
     $ source ~/.bashrc
     ```
